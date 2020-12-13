@@ -2,122 +2,49 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Professional Assessment 
+The coursework I have completed throughout the Computer Science program at Southern New Hampshire University has been a rewarding experience. When I had originally started this program, I did not feel confident in my abilities as an independent software developer. The projects I have completed over the past two years have given me the knowledge & confidence necessary to produce professional quality software products as both an independent software engineer & development team member. Developing these projects and the ePortfolio has helped me demonstrate my understanding of a variety of technical software engineering concepts. Completing these assignments has also given me a better understanding of the entire scope of the field of computer science. With this understanding I was able to identify the fields that I want to focus on as professional software engineer.
 
-[Link to my code review](https://www.youtube.com/watch?v=lDwVsQQmVUY&feature=youtu.be).
+Completing courses such as the Collaboration & Team Project, Software Development Lifecycle, and Object-Oriented Analysis & Design courses has taught me how to design software effectively while working on a development team to design, document, and communicate project specifications to other team members and shareholders. For the Collaboration & Team Project course I worked on a remote team in which we all committed to a repository for a jukebox application on bitbucket. We were tasked with verifying each other codes and leaving comments. The Software Development Lifecycle gave me insight into all of the functions associated with working on an Agile development team. Throughout this class I had to fulfill tasks associated with each role, this gave me a complete understanding of the importance of each role. As the Product Owner I created the project charter to communicate the scope of the project to shareholders formally, as the SCRUM Master I created an agenda for my team, as a software tester I tested the product for defects using Java and Junit in Eclipse, as a development team member I implemented the required functionality detailed in the product requirements. The Object-Oriented Analysis & Design course taught me how to work together on a team of developers using object-oriented principles to create documentation and diagrams to model digital applications.
 
-There should be whitespace between paragraphs.
+The courses that gave me a wide breadth of technical knowledge were courses such as Computer Graphics & Visualization, Secure Coding, Emerging Systems Architecture & Technologies, & Client/Server Development. For the Computer Graphics & Visualization course I was tasked with creating a simple 3D object using OpenGL and C++, and I had chosen to create a wooden stool. I had found this assignment challenging because I hadn’t taken my Linear Algebra course yet but I was able to figure out how to align all of the vertices properly to generate the 3D stool. For the Secure Coding course, I was tasked with auditing a program and creating an audit report. I did not find this task challenging but it gave me a deeper insight in identifying vulnerabilities and developing secure code. For the Emerging Systems Architecture & Technologies course I was tasked with creating a weather device that records temperature and humidity and outputs the data in real-time to a dashboard using a Raspberry Pi & GrovePi sensor. This project was challenging but I was able to create the device using Python. I retrieved the temperature & humidity data from the GrovePi sensor then formatted and output the data to file. I then created a server that sends the file to a client and displays the data in a JavaScript dashboard. This was one of the most interesting hands-on projects I had completed and it was a lot of fun to learn about and work with the Raspberry Pi. For the Client/Server Development course I was tasked with creating a RESTful stock market API that would serve stock market data from a MongoDB database. I created the RESTful API using Python and MongoDB which handled CRUD requests entered by the user and generated simple financial reports. I found this exercise to be fun because I have always been interested in how financial technologies are developed. 
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+The artifacts I have chosen fit together to inform my portfolio as a whole by providing a general overview of the skills, abilities, and techniques I have demonstrated through the projects I have completed while enrolled in the Computer Science program. The artifact I have chosen to demonstrate my skills in Software Design and Engineering showcases my ability to analyze the low-level implementation of a program in order to extract its original design. The artifact I have chosen to demonstrate my skills in Algorithms and Data Structures showcases my ability to contribute to a project that is already under development and implement the required functionality using the appropriate techniques. The artifact I have chosen to demonstrate my skills in Databases showcases my ability to develop RESTful web services that can be used to serve information from a database to remote applications or clients.
 
-# Header 1
+# Software Design and Engineering
+The artifact that I have chosen to include for the Software Design and Engineering portion of my final project is my Software Reverse Engineering final project. The application that I reverse engineered is a program that allows the user to adjust the grades of a predefined set of students. I reverse engineered this file from an object file to assembly and then back into a functioning C program. I completed this project on June 25th 2020. 
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+I selected this item because it demonstrates my understanding of the software engineering process through my ability to reverse engineer a program. The specific components of this artifact that showcase this is the report that I created for this project, which details the entire step by step process that I took in order to reverse engineer the object file back into a functioning C program. The artifact was improved with the addition of a flowchart which allows user to better understanding the design of the program visually. 
 
-## Header 2
+I did meet the course objectives that I planned on meeting with this enhancement in Module One. I had stated that I was going to create a flowchart for this project and I have accomplished this.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+What I learned as I was improving my project was how to create a flow chart for C program loops, which I had not done previously. It was also insightful to map out the functionality of the program which improved my own understanding of this application. The challenges that I faced were going through each step of the program systematically in order to map out the program in its entirety.
 
-### Header 3
+![softwareanalysisanddesignenhancement](https://i.imgur.com/FDVrWHv.jpg)
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+# Algorithms and Data Structures
+The artifact that I have chosen to include for the Algorithms and Data Structure portion of the final project is my Foundation in Application Development final project. The application that I worked on is a management system for a Luxury Ocean Cruise company. The application allows the user to add or edit ships, cruises, or passengers as well as view information saved in the system. I completed this project on October 25th 2019.
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+I selected this item because it demonstrates my understanding of algorithms and data structures through my use of programming as a problem-solving technique in business and engineering applications. The specific components of this artifact that showcase’s this are the menu system and methods that I created within the projects Driver file. This artifact has been improved upon with the addition of a flowchart that allows the user to better understand the design and the flow of information through the program. 
 
-#### Header 4
+I did meet the course objectives that I planned on meeting with this enhancement in Module One. I had originally stated that I was going to create a flowchart for this project and I have accomplished this.
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+What I learned as I was improving this artifact was how to create flowchart for a java project which contains multiple nested statements. Creating a flowchart for an application of this size was also a great learning experience in understanding how different components in this application work together. The main challenge that I faced while creating the flowchart was that there were a lot of if else conditions for the menu, which made it difficult to organize my diagram in a way that would not be too confusing to the viewer. 
 
-##### Header 5
+![algorithmsanddatastructuresenhancement](https://i.imgur.com/NWSDDKI.jpg)
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+# Databases
+The artifact that I have chosen to include for the Databases portion of the final project is my Client/Server Development final project. For this final project I was tasked with creating a RESTful API for a database that served stock market data. The RESTful API allows to the user to send HTTP requests to server in order to retrieve financial data and reports from the server. I completed this project on October 25th 2020. 
 
-###### Header 6
+I selected this item because it demonstrates my understanding of client/server development principles. In completing this project, I was able to apply my knowledge of database systems concepts to develop a client/server application that interfaced client-side code with a database. The specific components of this artifact that showcase this is stock_API.py server application that created. This artifact has been improved upon with the addition of a flowchart that allows the user to better understand the design of this RESTful API. 
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+I did meet the course objectives that I planned on meeting with this enhancement in Module One. I had stated that I was going to create a flowchart for this project and I have completed this objective.
 
-### There's a horizontal rule below this.
+What I learned in improving this artifact was how to create a flowchart of a RESTful API. This was my first time creating a flowchart for a RESTful API and I found it challenging to create the diagram because I did not know where to start. After reviewing the code, I decided to start with the main endpoint of the RESTful server. I then created a logical connection for each route connected to the main endpoint. Finally, I created the logic for each route.
 
-* * *
+![DatabasesEnhancement](https://i.imgur.com/xaUdiIW.jpg)
 
-### Here is an unordered list:
+# Code Review
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+[This is a link to my code review of the 3 applications that I have chosen to enhance and highlight my technical skills and abilities as a professional software engineer for my Computer Science Capstone project.](https://www.youtube.com/watch?v=lDwVsQQmVUY&feature=youtu.be).
 
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
