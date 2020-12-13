@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+[Link to my code review](https://www.youtube.com/watch?v=lDwVsQQmVUY&feature=youtu.be).
 
 There should be whitespace between paragraphs.
 
